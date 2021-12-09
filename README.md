@@ -4,8 +4,14 @@ Ryzen sistemlerde işe yarayacaktır.
 
 Başarılı Sistem:
 Asus B350 Prime Plus = Anakart
+
+
 Gskill 8GB 2400 MHz = Ram
+
+
 Ryzen 5 1600 = İşlemci
+
+
 Sapphire Rx470 = Ekran kartı
 
 
