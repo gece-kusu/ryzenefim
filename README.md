@@ -3,6 +3,7 @@ Ryzen ve Rx için Hackintosh EFI
 Ryzen sistemlerde işe yarayacaktır. 
 
 Başarılı Sistem:
+
 Asus B350 Prime Plus = Anakart
 
 
